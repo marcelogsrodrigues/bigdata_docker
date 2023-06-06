@@ -37,6 +37,11 @@ Ambiente para estudo dos principais frameworks big data em docker.
    
   *No Windows abrir PowerShell, do Linux um terminal*
 
+## Clone branch
+@marcelogsrodrigues
+   *06/06/2023*
+   > git clone -b ambiente-curso-ms https://github.com/marcelogsrodrigues/bigdata_docker.git
+   
 ### No terminal, no diretorio bigdata_docker, executar o docker-compose
           docker-compose up -d        
 
@@ -162,3 +167,5 @@ Ambiente para estudo dos principais frameworks big data em docker.
 * https://gethue.com/
 * https://github.com/yahoo/CMAK
 * https://www.docker.com/
+
+
